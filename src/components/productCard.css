@@ -1,0 +1,7 @@
+.productCardDiv {
+  margin: 20px;
+}
+.bottomDiv {
+  display: flex;
+  justify-content: space-around;
+}
